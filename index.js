@@ -667,5 +667,5 @@ function playMusic(connection) {
 
 
 
-bot.login('ODM3MjkyOTUxMjI2MDIzOTc3.YIqb0w.1figlE-KNQE2bOe_uuTa9ErXPcI');
+bot.login('process.env.TOKEN');
 
